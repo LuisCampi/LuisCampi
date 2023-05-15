@@ -10,7 +10,7 @@ index.md
 ![Imagen](https://www.academico.espol.edu.ec/imgEstudiante/201304489.jpg)
 
 
-## Proyectos
+# Proyectos
 
 * ProyectoSO
 [Enlace](https://github.com/LuisCampi/ProyectoSO)
@@ -18,7 +18,7 @@ index.md
 [Enlace](https://github.com/LuisCampi/DAW-Proyecto-JAVA)
 
 
-### Información de contacto
+# Información de contacto
 
 * Número celular: 0980775467
 
